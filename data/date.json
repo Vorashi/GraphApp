@@ -1,5 +1,29 @@
 {
-    "itbjr": "zAOGodSEYHrZ0",
-    "dksthg": "drakO0JAW4qL",
-    "lsghogzcvnp": false
+    "labels": ["Январь", "Февраль", "Март", "Апрель", "Май", "Июнь"],
+    "datasets": [
+      {
+        "id": 1,
+        "label": "Продажи",
+        "data": [109, 9, 97, 41, 124, 55],
+        "backgroundColor": "rgba(75, 192, 192, 0.2)",
+        "borderColor": "rgba(75, 192, 192, 1)",
+        "borderWidth": 2
+      },
+      {
+        "id": 2,
+        "label": "Покупки",
+        "data": [129, 67, 27, 99, 144, 8],
+        "backgroundColor": "rgba(29, 51, 74, 0.2)",
+        "borderColor": "rgba(29, 51, 74, 1)",
+        "borderWidth": 2
+      },
+      {
+        "id": 3,
+        "label": "Заказы",
+        "data": [19, 89, 37, 11, 189, 15],
+        "backgroundColor": "rgba(146, 110, 174, 0.4)",
+        "borderColor": "rgba(146, 110, 174, 1)",
+        "borderWidth": 1
+      }
+    ]
 }
